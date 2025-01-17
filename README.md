@@ -5,6 +5,9 @@
 При запуске программа запрашивает желаемое число хп, после чего предложит все варианты предметов со всеми вариантами перекачки в силу (до 311 силы) для получения данного кол-ва хп
 
 ### Получение 2025 ХП
-![image](https://github.com/user-attachments/assets/c8115f64-32dd-4051-b077-b768ea0c5de1)
+![image](https://github.com/user-attachments/assets/77067266-31c1-4aa2-acec-7e8bc0383b66)
+
+![image](https://github.com/user-attachments/assets/ebae0414-8104-42ea-8cc9-4036c40cbef1)
+
 
 ## База данных предметов не обновлялась с патча 7.35!!!
